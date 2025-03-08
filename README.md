@@ -1,1 +1,2 @@
 # IC25037---DC-WMATA-Metro-Ridership-Analysis
+AI Disclaimer: slidesgo.com was used to automatically generate a template PowerPoint, which was thoroughly edited and changed as the project advanced, and ChatGPT was used to assist in researching the causes for trends and outliers in Metro ridership. We learned the importance of critically analyzing sources and cross-referencing ChatGPT's answers with real-world articles and statistics to corroborate their claims.
